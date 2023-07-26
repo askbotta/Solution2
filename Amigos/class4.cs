@@ -11,6 +11,7 @@ namespace Amigos
         static void Main()
         {
             Console.WriteLine("Hello Amigos fellows");
+            Console.WriteLine("Hello fellas");
         }
     }
 }
