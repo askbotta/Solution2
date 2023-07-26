@@ -12,6 +12,7 @@ namespace Amigos
         {
             Console.WriteLine("Hello Amigos fellows");
             Console.WriteLine("Hello fellas");
+            Console.WriteLine("Hello Omid");
         }
     }
 }
