@@ -10,7 +10,7 @@ namespace Amigos
     { 
         static void Main()
         {
-            Console.WriteLine("Hello Amigos");
+            Console.WriteLine("Hello Amigos fellows");
         }
     }
 }
