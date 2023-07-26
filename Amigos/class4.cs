@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 namespace Amigos
 {
     internal class class4
-    {
+    { 
+        static void Main()
+        {
+            Console.WriteLine("Hello Amigos");
+        }
     }
 }
