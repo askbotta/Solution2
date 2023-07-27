@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	  
-    <StartupObject>Amigos.TestProgram</StartupObject>
+    <StartupObject>Amigos.Class1</StartupObject>
   </PropertyGroup>
 
 </Project>
