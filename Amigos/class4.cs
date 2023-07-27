@@ -15,6 +15,7 @@ namespace Amigos
             Console.WriteLine("Hello Omid");
             Console.WriteLine("Hello friends");
             Console.WriteLine("hELLO Shashi");
+            Console.WriteLine("Hello Moguluru");
         }
     }
 }
