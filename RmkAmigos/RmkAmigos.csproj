@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 <Project Sdk="Microsoft.NET.Sdk">
+=======
+﻿<Project Sdk="Microsoft.NET.Sdk">
+>>>>>>> Stashed changes
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,4 +11,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< Updated upstream
+=======
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+    <Folder Include="NewFolder2\" />
+    <Folder Include="NewFolder3\" />
+    <Folder Include="NewFolder4\" />
+    <Folder Include="NewFolder5\" />
+    <Folder Include="NewFolder6\" />
+  </ItemGroup>
+
+>>>>>>> Stashed changes
 </Project>
