@@ -8,4 +8,13 @@
 	  <StartupObject>Amigos1.Class1</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+    <Folder Include="NewFolder2\" />
+    <Folder Include="NewFolder3\" />
+    <Folder Include="NewFolder4\" />
+    <Folder Include="NewFolder5\" />
+    <Folder Include="NewFolder6\" />
+  </ItemGroup>
+
 </Project>
